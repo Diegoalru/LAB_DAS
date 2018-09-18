@@ -4,3 +4,9 @@ C:\Users\ulacit\Documents\Visual Studio 2017\Projects\LAB02\LAB02\obj\Debug\LAB0
 C:\Users\ulacit\Documents\Visual Studio 2017\Projects\LAB02\LAB02\obj\Debug\LAB02.dll
 C:\Users\ulacit\Documents\Visual Studio 2017\Projects\LAB02\LAB02\obj\Debug\LAB02.pdb
 C:\Users\ulacit\Documents\Visual Studio 2017\Projects\LAB02\LAB02\obj\Debug\LAB02_Library.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\LAB02\bin\Debug\LAB02.dll
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\LAB02\bin\Debug\LAB02.pdb
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\LAB02\obj\Debug\LAB02_Library.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\LAB02\obj\Debug\LAB02_Library.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\LAB02\obj\Debug\LAB02.dll
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\LAB02\obj\Debug\LAB02.pdb

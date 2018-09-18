@@ -7,3 +7,12 @@ C:\Users\ulacit\Documents\Visual Studio 2017\Projects\LAB02\ConsoleApp1\obj\Debu
 C:\Users\ulacit\Documents\Visual Studio 2017\Projects\LAB02\ConsoleApp1\bin\Debug\LAB02.dll
 C:\Users\ulacit\Documents\Visual Studio 2017\Projects\LAB02\ConsoleApp1\bin\Debug\LAB02.pdb
 C:\Users\ulacit\Documents\Visual Studio 2017\Projects\LAB02\ConsoleApp1\obj\Debug\LAB02_Console.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\ConsoleApp1\bin\Debug\LAB02.dll
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\ConsoleApp1\bin\Debug\LAB02.pdb
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\ConsoleApp1\obj\Debug\LAB02_Console.csprojResolveAssemblyReference.cache
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\ConsoleApp1\obj\Debug\LAB02_Console.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ulacit\Documents\GitHub\LAB_DAS\LAB02\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

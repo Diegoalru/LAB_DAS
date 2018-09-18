@@ -13,12 +13,14 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Person");
 
+              //ILogger logger = new Persona();
+
               //LAB v1
               Persona p = new Persona();
               p.Id = 1;
               p.Name = "Diego";
               p.LastName = "Rubi";
-             
+
 
             /* //LAB v2
              * Persona p = new Persona(1, "Diego", "Rubi");
@@ -33,10 +35,17 @@ namespace ConsoleApp1
              * };
              */
 
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            ILogger logger = p;
 
             String personString = string.Format("ID: {0}, Name: {1} and Last Name: {2}.", p.Id, p.Name, p.LastName);
 
-            Console.WriteLine(personString);
+            //Console.WriteLine(personString);
+            logger.Log(personString);
             
             Console.ReadKey();
         }
