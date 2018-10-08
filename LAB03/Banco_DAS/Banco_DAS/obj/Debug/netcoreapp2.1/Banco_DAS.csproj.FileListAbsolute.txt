@@ -1,0 +1,11 @@
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\bin\Debug\netcoreapp2.1\Banco_DAS.deps.json
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\bin\Debug\netcoreapp2.1\Banco_DAS.runtimeconfig.json
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\bin\Debug\netcoreapp2.1\Banco_DAS.runtimeconfig.dev.json
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\bin\Debug\netcoreapp2.1\Banco_DAS.dll
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\bin\Debug\netcoreapp2.1\Banco_DAS.pdb
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\obj\Debug\netcoreapp2.1\Banco_DAS.csprojAssemblyReference.cache
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\obj\Debug\netcoreapp2.1\Banco_DAS.csproj.CoreCompileInputs.cache
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\obj\Debug\netcoreapp2.1\Banco_DAS.AssemblyInfoInputs.cache
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\obj\Debug\netcoreapp2.1\Banco_DAS.AssemblyInfo.cs
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\obj\Debug\netcoreapp2.1\Banco_DAS.dll
+E:\Repo_GIT\LAB_DAS\LAB03\Banco_DAS\Banco_DAS\obj\Debug\netcoreapp2.1\Banco_DAS.pdb

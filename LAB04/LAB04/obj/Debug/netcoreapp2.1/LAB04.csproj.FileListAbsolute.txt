@@ -1,0 +1,11 @@
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\bin\Debug\netcoreapp2.1\LAB04.deps.json
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\bin\Debug\netcoreapp2.1\LAB04.runtimeconfig.json
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\bin\Debug\netcoreapp2.1\LAB04.runtimeconfig.dev.json
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\bin\Debug\netcoreapp2.1\LAB04.dll
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\bin\Debug\netcoreapp2.1\LAB04.pdb
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\obj\Debug\netcoreapp2.1\LAB04.csprojAssemblyReference.cache
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\obj\Debug\netcoreapp2.1\LAB04.csproj.CoreCompileInputs.cache
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\obj\Debug\netcoreapp2.1\LAB04.AssemblyInfoInputs.cache
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\obj\Debug\netcoreapp2.1\LAB04.AssemblyInfo.cs
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\obj\Debug\netcoreapp2.1\LAB04.dll
+E:\Repo_GIT\LAB_DAS\LAB04\LAB04\obj\Debug\netcoreapp2.1\LAB04.pdb

@@ -1,0 +1,17 @@
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\bin\Debug\netcoreapp2.1\LAB05Test.deps.json
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\bin\Debug\netcoreapp2.1\LAB05Test.runtimeconfig.json
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\bin\Debug\netcoreapp2.1\LAB05Test.runtimeconfig.dev.json
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\bin\Debug\netcoreapp2.1\LAB05Test.dll
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\bin\Debug\netcoreapp2.1\LAB05Test.pdb
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\obj\Debug\netcoreapp2.1\LAB05Test.csprojAssemblyReference.cache
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\obj\Debug\netcoreapp2.1\LAB05Test.csproj.CoreCompileInputs.cache
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\obj\Debug\netcoreapp2.1\LAB05Test.AssemblyInfoInputs.cache
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\obj\Debug\netcoreapp2.1\LAB05Test.AssemblyInfo.cs
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\obj\Debug\netcoreapp2.1\LAB05Test.dll
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\obj\Debug\netcoreapp2.1\LAB05Test.pdb
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\bin\Debug\netcoreapp2.1\LAB05.dll
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\bin\Debug\netcoreapp2.1\LAB05.pdb
+E:\Repo_GIT\LAB_DAS\LAB05\LAB05Test\obj\Debug\netcoreapp2.1\LAB05Test.csproj.CopyComplete
