@@ -1,0 +1,9 @@
+C:\Users\DARS\source\repos\Lab07.Test\Business.Logic\bin\Debug\Business.Logic.dll
+C:\Users\DARS\source\repos\Lab07.Test\Business.Logic\bin\Debug\Business.Logic.pdb
+C:\Users\DARS\source\repos\Lab07.Test\Business.Logic\obj\Debug\Business.Logic.csprojAssemblyReference.cache
+C:\Users\DARS\source\repos\Lab07.Test\Business.Logic\obj\Debug\Business.Logic.csproj.CoreCompileInputs.cache
+C:\Users\DARS\source\repos\Lab07.Test\Business.Logic\obj\Debug\Business.Logic.dll
+C:\Users\DARS\source\repos\Lab07.Test\Business.Logic\obj\Debug\Business.Logic.pdb
+C:\Users\DARS\source\repos\Lab07.Test\Business.Logic\bin\Debug\Entities.dll
+C:\Users\DARS\source\repos\Lab07.Test\Business.Logic\bin\Debug\Entities.pdb
+C:\Users\DARS\source\repos\Lab07.Test\Business.Logic\obj\Debug\Business.Logic.csproj.CopyComplete
